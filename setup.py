@@ -19,7 +19,7 @@ setup(
     author='Ruben Grill',
     author_email='ruben.grill@gmail.com',
     install_requires=[
-        'Django>=1.7',
+        'Django>=1.4',
     ],
     classifiers=[
         'Environment :: Web Environment',
